@@ -1,0 +1,10 @@
+{
+  "compatibilityLevel": "JAVA_8",
+  "package": "xyz.hkdev.mc.fiesta.mixin",
+  "mixins": [
+    "MixinCrashReport",
+    "MixinMinecraft"
+  ],
+  "client": [],
+  "server": []
+}
